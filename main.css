@@ -1,0 +1,32 @@
+*{
+padding: 0 px;
+}
+body{
+background:#D3B5D4;
+}
+h1{
+text-align:center;
+color:#FFF;
+}
+
+button{
+background:#FA8FCA;
+color:#fff;
+padding:5px;
+margin:10px;
+border-radius:20px;
+cursor:pointer;
+}
+button:hover{
+background:#F4F195;
+transition:3s;
+}
+#Registro{
+align-content: center;
+}
+.caja{
+width:50%;
+border-radius: 10px;
+background-color:rgba(255,255,255,0.1)
+
+}
